@@ -1,0 +1,11 @@
+Contract,Tenure_Group,Total_Customers,Churned_Customers,Churn_Rate_%
+Month-to-month,0–6 months,1413,780,55.2
+Month-to-month,7–12 months,581,244,42.0
+Month-to-month,13–24 months,737,278,37.72
+Month-to-month,25–48 months,802,264,32.92
+Month-to-month,49–72 months,342,89,26.02
+One year,49–72 months,634,82,12.93
+One year,25–48 months,518,55,10.62
+One year,7–12 months,85,9,10.59
+One year,0–6 months,39,4,10.26
+One year,13–24 months,197,16,8.12
