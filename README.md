@@ -25,17 +25,40 @@ This project analyzes customer churn to identify customer segments with high chu
 
 Additional analysis indicates that month-to-month customers and customers with shorter tenure have higher churn rates.
 
-## Dashboard
-![Customer Churn & Retention Analysis Dashboard](images/customer-churn-dashboard.png)
 
-The Power BI dashboard includes:
-- Total customers, churned customers, and retained customers
-- Overall churn rate
+## Dashboard
+
+The interactive Power BI dashboard summarizes customer churn and retention patterns.
+
+![Customer Churn & Retention Dashboard](images/dashboard.png)
+
+### Dashboard Features
+- Total, churned, and retained customer KPIs
+- Overall customer churn rate
 - Churn rate by contract type
 - Churn rate by customer tenure
 - Churn rate by payment method
 - Churn rate by internet service
 - Interactive slicers for exploring customer segments
+
+## Key Findings
+
+- **Total customers:** 7,043
+- **Churned customers:** 1,869
+- **Retained customers:** 5,174
+- **Overall churn rate:** 26.54%
+- **Retention rate:** 73.46%
+
+The analysis indicates that month-to-month customers and customers with shorter tenure have higher churn rates. These patterns suggest opportunities to investigate onboarding, customer engagement, and retention offers.
+
+## Business Recommendations
+
+1. Investigate the reasons for higher churn among month-to-month customers.
+2. Improve onboarding and customer engagement during the early months.
+3. Investigate churn patterns across payment methods and internet services.
+4. Test targeted retention strategies and measure their impact.
+
+*These findings describe observed patterns; further investigation is needed to establish the causes of churn.*
 
 ## Recommendations
 1. Investigate why month-to-month customers are more likely to leave.
