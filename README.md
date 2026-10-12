@@ -30,7 +30,7 @@ Additional analysis indicates that month-to-month customers and customers with s
 
 The interactive Power BI dashboard summarizes customer churn and retention patterns.
 
-![Customer Churn & Retention Dashboard](images/dashboard.png)
+![Customer Churn & Retention Dashboard](dashboard.png)
 
 ### Dashboard Features
 - Total, churned, and retained customer KPIs
